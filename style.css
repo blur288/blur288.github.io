@@ -38,3 +38,7 @@ nav{
     color: #fff;
     padding: 5px 0;
 }
+
+.nav-links li a:hover{
+    color: #fff5;
+}
