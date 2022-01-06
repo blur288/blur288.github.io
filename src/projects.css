@@ -1,0 +1,21 @@
+.ProjectImages{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -40%);
+    border: 5px solid #FFFFF0;
+    padding: 10px;
+}
+
+.ProjectImages ul li{
+    padding: 8px;
+}
+
+.ProjectImages ul li:hover{
+    opacity: 0.3;
+}
+
+.ProjectImages ul li p{
+    color: #FFFFF0;
+    text-align: center;
+}
