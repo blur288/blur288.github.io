@@ -1,8 +1,8 @@
-.AboutMeContents{
-    position: absolute;
+.ContactContainer{
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
     border: 5px solid #FFFFF0;
     padding: 10px;
+    position: absolute;
 }
